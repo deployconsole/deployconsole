@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm deployedConole</h1>
 <h3 align="center">JAMstack with WEB3.0 Research and development</h3>
 
-- 🔭 I’m currently working on **freelance Developer**
+- 🔭 I’m currently working on **freelance OpenSource Projects**
 
 - 🌱 I’m currently learning **WEB 3.0**
 
